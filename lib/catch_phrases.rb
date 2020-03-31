@@ -9,4 +9,4 @@ def toadstool
   puts status
 end
 def link
-  puts "I"
+  puts "It's Dangerous To Go Alone"
